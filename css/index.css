@@ -1,0 +1,1370 @@
+@media only screen and (min-width: 1201px){
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+        margin-left: 45px;
+        padding-top: 140px;
+        background-color: rgb(4, 10, 22);
+        color: white;
+        font-family: "Libre Baskerville", sans-serif;
+      
+    }
+
+    .mnavbar {
+        display: none;
+    }
+
+    .about-me-hdr {
+        margin-top: 110px;
+    }
+
+    .skills-hdr {
+        margin-top: 100px;
+    }
+
+    .achievements-hdr {
+        margin-top: 130px;
+    }
+
+    .referals-hdr {
+        margin-top: 100px;
+    }
+
+    .achievements-grids {
+        margin-top: 30px;
+        background-color: rgb(5, 13, 32);
+        width: 280px;
+        padding-left: 10px;
+    }
+
+    .referals-grids {
+        width: 280px;
+
+    }
+
+    .about-me-prg {
+        margin-top: 60px;
+        font-weight: 400;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    hr {
+        border-top: 0px solid;
+        width: 100%;
+    }
+
+    h1 {
+        margin-inline-start: 10px;
+        width: 225px;
+        border: 1px solid rgb(255, 114, 62);
+        margin-left: 90px;
+        font-size: 60px;
+        text-align: center;
+    }
+
+    .job-title {
+        font-size: 20px;
+    }
+
+    .museum-pic {
+      display: none;
+    }
+
+    .isaac-img {
+        margin-left: 47.6%;
+        margin-top: -390px;
+        width: 690px;
+        display: flex;
+        opacity: 80%;
+    }
+
+    .facebook-icon {
+        margin-top: -500px;
+        width: 28px;
+        margin-bottom: 90px;
+        margin-left: 100px;
+    }
+
+    .github-logo {
+        margin-bottom: 83px;
+        margin-top: -100px;
+        width: 40px;
+        margin-left: 50px;
+    }
+
+    .whatsapp-logo {
+        margin-bottom: 86px;
+        margin-top: -100px;
+        width: 35px;
+        margin-left: 60px
+    }
+
+    .skills-section {
+        font-weight: 200;
+        font-family: "Poppins", sans-serif;
+        font-size: 14px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+    }
+
+    .achievements-section {
+        font-weight: 400;
+        font-family: "Poppins", sans-serif;
+        font-size: 14px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+    }
+
+    .referals-section {
+        font-weight: 400;
+        font-family: Poppins;
+        font-size: 14px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        margin-bottom: 40px;
+    }
+
+    .contacts-section {
+        margin-top: 30px;
+        font-weight: 200;
+        font-family: "Poppins", sans-serif;
+        font-size: 14px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        margin-bottom: 70px;
+    }
+
+    .html-img {
+        width: 80px;
+    }
+
+    .css-img {
+        width: 65px;
+    }
+
+    .python-img {
+        margin-top: 6px;
+        width: 75px;
+        margin-bottom: 5px;
+    }
+
+    .javascript-img {
+        width: 65px;
+        margin-top: 10px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    .github-icon {
+        width: 65px;
+        margin-top: 10px;
+    }
+
+    .vs-code-icon {
+        width: 70px;
+        margin-top: 10px;
+    }
+
+    .react-icon {
+        width: 70px;
+        margin-top: 10px;
+    }
+
+    .ecz {
+        width: 278px;
+    }
+
+    .fb-social {
+        margin-bottom: 3px;
+        width: 25px;
+    }
+
+    .wa-social {
+        margin-left: 10px;
+        width: 32px;
+    }
+
+    .gh-social {
+        margin-left: 9px;
+        width: 30px;
+    }
+
+    .email-icon {
+        margin-bottom: -6px;
+        width: 20px;
+        margin-right: 10px;
+    }
+
+    .phone-icon {
+        margin-bottom: -5px;
+        width: 20px;
+        margin-right: 10px;
+    }
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+        margin-left: 45px;
+        padding-top: 140px;
+        background-color: rgb(4, 10, 22);
+        color: white;
+        font-family: "Libre Baskerville", sans-serif;
+      
+    }
+
+    .mnavbar {
+        display: none;
+    }
+
+    .about-me-hdr {
+        margin-top: 110px;
+    }
+
+    .skills-hdr {
+        margin-top: 100px;
+    }
+
+    .achievements-hdr {
+        margin-top: 130px;
+    }
+
+    .referals-hdr {
+        margin-top: 100px;
+    }
+
+    .achievements-grids {
+        margin-top: 30px;
+        background-color: rgb(5, 13, 32);
+        width: 280px;
+        padding-left: 10px;
+    }
+
+    .referals-grids {
+        width: 280px;
+
+    }
+
+    .about-me-prg {
+        margin-top: 60px;
+        font-weight: 400;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    hr {
+        border-top: 0px solid;
+        width: 100%;
+    }
+
+    h1 {
+        margin-inline-start: 10px;
+        width: 225px;
+        border: 1px solid rgb(255, 114, 62);
+        margin-left: 90px;
+        font-size: 60px;
+        text-align: center;
+    }
+
+    .job-title {
+        font-size: 20px;
+    }
+
+    .museum-pic {
+      display: none;
+    }
+
+    .isaac-img {
+        margin-left: 49.6%;
+        margin-top: -390px;
+        width: 690px;
+        display: flex;
+        opacity: 80%;
+    }
+
+    .facebook-icon {
+        margin-top: -500px;
+        width: 28px;
+        margin-bottom: 90px;
+        margin-left: 100px;
+    }
+
+    .github-logo {
+        margin-bottom: 83px;
+        margin-top: -100px;
+        width: 40px;
+        margin-left: 50px;
+    }
+
+    .whatsapp-logo {
+        margin-bottom: 86px;
+        margin-top: -100px;
+        width: 35px;
+        margin-left: 60px
+    }
+
+    .skills-section {
+        font-weight: 200;
+        font-family: "Poppins", sans-serif;
+        font-size: 14px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+    }
+
+    .achievements-section {
+        font-weight: 400;
+        font-family: "Poppins", sans-serif;
+        font-size: 14px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+    }
+
+    .referals-section {
+        font-weight: 400;
+        font-family: Poppins;
+        font-size: 14px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        margin-bottom: 40px;
+    }
+
+    .contacts-section {
+        margin-top: 30px;
+        font-weight: 200;
+        font-family: "Poppins", sans-serif;
+        font-size: 14px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        margin-bottom: 70px;
+    }
+
+    .html-img {
+        width: 80px;
+    }
+
+    .css-img {
+        width: 65px;
+    }
+
+    .python-img {
+        margin-top: 6px;
+        width: 75px;
+        margin-bottom: 5px;
+    }
+
+    .javascript-img {
+        width: 65px;
+        margin-top: 10px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    .github-icon {
+        width: 65px;
+        margin-top: 10px;
+    }
+
+    .vs-code-icon {
+        width: 70px;
+        margin-top: 10px;
+    }
+
+    .react-icon {
+        width: 70px;
+        margin-top: 10px;
+    }
+
+    .ecz {
+        width: 278px;
+    }
+
+    .fb-social {
+        margin-bottom: 3px;
+        width: 25px;
+    }
+
+    .wa-social {
+        margin-left: 10px;
+        width: 32px;
+    }
+
+    .gh-social {
+        margin-left: 9px;
+        width: 30px;
+    }
+
+    .email-icon {
+        margin-bottom: -6px;
+        width: 20px;
+        margin-right: 10px;
+    }
+
+    .phone-icon {
+        margin-bottom: -5px;
+        width: 20px;
+        margin-right: 10px;
+    }
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+}
+
+@media only screen and (min-width:769px) and (max-width: 1024px) {
+    .isaac-img {
+        display: none;
+    }
+
+    .skills-items {
+        width: 100%;
+    }
+
+    body {
+        margin-top: 150px;
+        max-width: 100%;
+        background-color: rgb(4, 10, 22);
+        color: white;
+        font-family: "Libre Baskerville", sans-serif;
+        overflow-x: hidden;
+        padding: 5px;
+    }
+
+    h1 {
+        width: 50%;
+        border: 1px solid rgb(255, 114, 62);
+        font-size: 40px;
+        text-align: center;
+        margin-left: 25%;
+        margin-top: -20px;
+        margin-bottom: 40px;
+    }
+
+    .facebook-icon {
+        display: none;
+    }
+
+    .github-logo {
+        display: none;
+    }
+
+    .whatsapp-logo {
+        display: none;
+    }
+
+    .about-me-hdr {
+        margin-top: 40%;
+        width: 90%;
+    }
+
+    .achievements-hdr {
+        margin-top: 110px;
+        width: 75%;
+    }
+
+    .referals-hdr {
+        margin-top: 100px;
+    }
+
+    hr {
+        width: 100%;
+    }
+
+    .about-me-prg {
+        margin-top: 20%;
+        margin-bottom: 0%;
+        font-weight: 300;
+        width: 98%;
+    }
+
+    .museum-pic {
+        margin-top: 10%;
+        margin-bottom: 5%;
+        width: 90%;
+        border-radius: 70%;
+    }
+
+    .skills-hdr {
+        margin-top: 100px;
+        width: 100%;
+    }
+
+    .contact-me-hdr {
+        width: 75%;
+    }
+
+    .skills-section {
+        font-weight: 200;
+        font-family: "Poppins", sans-serif;
+        font-size: 18px;
+        display: grid;
+        grid-template-columns: 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        width: 99%;
+    }
+
+    .achievements-section {
+        font-weight: 400;
+        font-family: "Poppins", sans-serif;
+        font-size: 16px;
+        display: grid;
+        grid-template-columns: 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        width: 99%;
+        margin-bottom: 10px;
+    }
+
+    .referals-section {
+        font-weight: 400;
+        font-family: Poppins;
+        font-size: 16px;
+        display: grid;
+        grid-template-columns: 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        margin-bottom: 80px;
+        width: 99%;
+    }
+
+    .contacts-section {
+        margin-top: 30px;
+        font-weight: 200;
+        font-family: "Poppins", sans-serif;
+        font-size: 16px;
+        display: grid;
+        grid-template-columns: 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        margin-bottom: 50px;
+        width: 99%;
+    }
+
+    .contacts-items {
+        width: 100%;
+    }
+
+    .achievements-grids {
+        margin-top: 30px;
+        background-color: rgb(5, 13, 32);
+        width: 75%;
+        margin-left: 10%;
+    }
+
+    .referals-grids {
+        width: 95%;
+    }
+
+    .html-img {
+        width: 80px;
+    }
+
+    .css-img {
+        width: 65px;
+    }
+
+    .python-img {
+        margin-top: 6px;
+        width: 75px;
+        margin-bottom: 5px;
+    }
+
+    .javascript-img {
+        width: 65px;
+        margin-top: 10px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    .github-icon {
+        width: 65px;
+        margin-top: 10px;
+    }
+
+    .vs-code-icon {
+        width: 70px;
+        margin-top: 10px;
+    }
+
+    .react-icon {
+        width: 70px;
+        margin-top: 10px;
+    }
+
+    .ecz {
+        width: 95%;
+        padding-left: 2%;
+    }
+
+    .fb-social {
+        margin-bottom: 3px;
+        width: 25px;
+    }
+
+    .wa-social {
+        margin-left: 10px;
+        width: 32px;
+    }
+
+    .gh-social {
+        margin-left: 9px;
+        width: 30px;
+    }
+
+    .email-icon {
+        margin-bottom: -6px;
+        width: 20px;
+        margin-right: 10px;
+    }
+
+    .phone-icon {
+        margin-bottom: -5px;
+        width: 20px;
+        margin-right: 10px;
+    }
+
+    a {
+        color: white;
+    }
+
+    .job-title {
+        font-size: 18px;
+        width: 75%;
+        text-align: center;
+        margin-left: 11%;
+    }
+}
+
+@media only screen and (min-width: 481px) and (max-width:768px) {
+    .isaac-img {
+        display: none;
+    }
+
+    .skills-items {
+        width: 100%;
+    }
+
+    body {
+        margin-top: 150px;
+        max-width: 100%;
+        background-color: rgb(4, 10, 22);
+        color: white;
+        font-family: "Libre Baskerville", sans-serif;
+        overflow-x: hidden;
+        padding: 5px 5px;
+    }
+
+    h1 {
+        width: 50%;
+        border: 1px solid rgb(255, 114, 62);
+        font-size: 40px;
+        text-align: center;
+        margin-left: 25%;
+        margin-top: -20px;
+        margin-bottom: 40px;
+    }
+
+    .facebook-icon {
+        display: none;
+    }
+
+    .github-logo {
+        display: none;
+    }
+
+    .whatsapp-logo {
+        display: none;
+    }
+
+    .about-me-hdr {
+        margin-top: 40%;
+        width: 90%;
+    }
+
+    .achievements-hdr {
+        margin-top: 110px;
+        width: 75%;
+    }
+
+    .referals-hdr {
+        margin-top: 100px;
+    }
+
+    hr {
+        width: 95%;
+        margin-left: -5px;
+    }
+
+    .about-me-prg {
+        margin-top: 20%;
+        margin-bottom: 0%;
+        font-weight: 300;
+        width: 95%;
+    }
+
+    .museum-pic {
+        margin-top: 10%;
+        margin-bottom: 5%;
+        width: 90%;
+        border-radius: 70%;
+    }
+
+    .skills-hdr {
+        margin-top: 100px;
+        width: 100%;
+    }
+
+    .contact-me-hdr {
+        width: 75%;
+    }
+
+    .skills-section {
+        font-weight: 200;
+        font-family: "Poppins", sans-serif;
+        font-size: 18px;
+        display: grid;
+        grid-template-columns: 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        width: 95%;
+    }
+
+    .achievements-section {
+        font-weight: 400;
+        font-family: "Poppins", sans-serif;
+        font-size: 16px;
+        display: grid;
+        grid-template-columns: 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        width: 99%;
+        margin-bottom: 10px;
+    }
+
+    .referals-section {
+        font-weight: 400;
+        font-family: Poppins;
+        font-size: 16px;
+        display: grid;
+        grid-template-columns: 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        margin-bottom: 80px;
+        width: 99%;
+    }
+
+    .contacts-section {
+        margin-top: 30px;
+        font-weight: 200;
+        font-family: "Poppins", sans-serif;
+        font-size: 16px;
+        display: grid;
+        grid-template-columns: 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        margin-bottom: 50px;
+        width: 99%;
+    }
+
+    .contacts-items {
+        width: 100%;
+    }
+
+    .achievements-grids {
+        margin-top: 30px;
+        background-color: rgb(5, 13, 32);
+        width: 75%;
+        margin-left: 10%;
+    }
+
+    .referals-grids {
+        width: 95%;
+    }
+
+    .html-img {
+        width: 80px;
+    }
+
+    .css-img {
+        width: 65px;
+    }
+
+    .python-img {
+        margin-top: 6px;
+        width: 75px;
+        margin-bottom: 5px;
+    }
+
+    .javascript-img {
+        width: 65px;
+        margin-top: 10px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    .github-icon {
+        width: 65px;
+        margin-top: 10px;
+    }
+
+    .vs-code-icon {
+        width: 70px;
+        margin-top: 10px;
+    }
+
+    .react-icon {
+        width: 70px;
+        margin-top: 10px;
+    }
+
+    .ecz {
+        width: 95%;
+        padding-left: 2%;
+    }
+
+    .fb-social {
+        margin-bottom: 3px;
+        width: 25px;
+    }
+
+    .wa-social {
+        margin-left: 10px;
+        width: 32px;
+    }
+
+    .gh-social {
+        margin-left: 9px;
+        width: 30px;
+    }
+
+    .email-icon {
+        margin-bottom: -6px;
+        width: 20px;
+        margin-right: 10px;
+    }
+
+    .phone-icon {
+        margin-bottom: -5px;
+        width: 20px;
+        margin-right: 10px;
+    }
+
+    a {
+        color: white;
+    }
+
+    .job-title {
+        font-size: 18px;
+        width: 75%;
+        text-align: center;
+        margin-left: 11%;
+    }
+}
+
+@media only screen and (min-width:321px) and (max-width:480px) {
+    .isaac-img {
+        display: none;
+    }
+
+    .skills-items {
+        width: 100%;
+    }
+
+    body {
+        margin-top: 150px;
+        max-width: 100%;
+        background-color: rgb(4, 10, 22);
+        color: white;
+        font-family: "Libre Baskerville", sans-serif;
+        overflow-x: hidden;
+        padding: 5px;
+    }
+
+    h1 {
+        width: 50%;
+        border: 1px solid rgb(255, 114, 62);
+        font-size: 40px;
+        text-align: center;
+        margin-left: 25%;
+        margin-top: -20px;
+        margin-bottom: 40px;
+    }
+
+    .facebook-icon {
+        display: none;
+    }
+
+    .github-logo {
+        display: none;
+    }
+
+    .whatsapp-logo {
+        display: none;
+    }
+
+    .about-me-hdr {
+        margin-top: 40%;
+        width: 100%;
+    }
+
+    .achievements-hdr {
+        margin-top: 110px;
+        width: 75%;
+    }
+
+    .referals-hdr {
+        margin-top: 100px;
+    }
+
+    hr {
+        width: 100%;
+    }
+
+    .about-me-prg {
+        margin-top: 20%;
+        margin-bottom: 0%;
+        font-weight: 300;
+        width: 100%;
+    }
+
+    .museum-pic {
+        margin-top: 10%;
+        margin-bottom: 5%;
+        width: 90%;
+        border-radius: 70%;
+    }
+
+    .skills-hdr {
+        margin-top: 100px;
+        width: 100%;
+    }
+
+    .contact-me-hdr {
+        width: 75%;
+    }
+
+    .skills-section {
+        font-weight: 200;
+        font-family: "Poppins", sans-serif;
+        font-size: 18px;
+        display: grid;
+        grid-template-columns: 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        width: 100%;
+    }
+
+    .achievements-section {
+        font-weight: 400;
+        font-family: "Poppins", sans-serif;
+        font-size: 16px;
+        display: grid;
+        grid-template-columns: 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .referals-section {
+        font-weight: 400;
+        font-family: Poppins;
+        font-size: 16px;
+        display: grid;
+        grid-template-columns: 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        margin-bottom: 80px;
+        width: 100%;
+    }
+
+    .contacts-section {
+        margin-top: 30px;
+        font-weight: 200;
+        font-family: "Poppins", sans-serif;
+        font-size: 16px;
+        display: grid;
+        grid-template-columns: 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        margin-bottom: 50px;
+        width: 100%;
+    }
+
+    .contacts-items {
+        width: 100%;
+    }
+
+    .achievements-grids {
+        margin-top: 30px;
+        background-color: rgb(5, 13, 32);
+        width: 100%;
+    }
+
+    .referals-grids {
+        width: 99%;
+
+    }
+
+    .html-img {
+        width: 80px;
+    }
+
+    .css-img {
+        width: 65px;
+    }
+
+    .python-img {
+        margin-top: 6px;
+        width: 75px;
+        margin-bottom: 5px;
+    }
+
+    .javascript-img {
+        width: 65px;
+        margin-top: 10px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    .github-icon {
+        width: 65px;
+        margin-top: 10px;
+    }
+
+    .vs-code-icon {
+        width: 70px;
+        margin-top: 10px;
+    }
+
+    .react-icon {
+        width: 70px;
+        margin-top: 10px;
+    }
+
+    .ecz {
+        width: 95%;
+        padding-left: 2%;
+    }
+
+    .fb-social {
+        margin-bottom: 3px;
+        width: 25px;
+    }
+
+    .wa-social {
+        margin-left: 10px;
+        width: 32px;
+    }
+
+    .gh-social {
+        margin-left: 9px;
+        width: 30px;
+    }
+
+    .email-icon {
+        margin-bottom: -6px;
+        width: 20px;
+        margin-right: 10px;
+    }
+
+    .phone-icon {
+        margin-bottom: -5px;
+        width: 20px;
+        margin-right: 10px;
+    }
+
+    a {
+        color: white;
+    }
+
+    .job-title {
+        font-size: 18px;
+        width: 75%;
+        text-align: center;
+        margin-left: 11%;
+    }
+}
+
+@media only screen and (max-width:320px) {
+    .isaac-img {
+        display: none;
+    }
+
+    .skills-items {
+        width: 75%;
+    }
+
+    body {
+        margin-top: 150px;
+        max-width: 100%;
+        background-color: rgb(4, 10, 22);
+        color: white;
+        font-family: "Libre Baskerville", sans-serif;
+        overflow-x: hidden;
+        padding: 5px;
+    }
+
+    h1 {
+        width: 145px;
+        border: 1px solid rgb(255, 114, 62);
+        font-size: 40px;
+        text-align: center;
+        margin-left: 25%;
+        margin-top: -20px;
+        margin-bottom: 40px;
+    }
+
+    .facebook-icon {
+        display: none;
+    }
+
+    .github-logo {
+        display: none;
+    }
+
+    .whatsapp-logo {
+        display: none;
+    }
+
+    .about-me-hdr {
+        margin-top: 40%;
+        width: 75%;
+    }
+
+    .achievements-hdr {
+        margin-top: 110px;
+        width: 75%;
+    }
+
+    .referals-hdr {
+        margin-top: 100px;
+    }
+
+    hr {
+        width: 100%;
+    }
+
+    .about-me-prg {
+        margin-top: 20%;
+        margin-bottom: 0%;
+        font-weight: 300;
+        width: 100%;
+    }
+
+    .museum-pic {
+        margin-top: 10%;
+        margin-bottom: 5%;
+        width: 100%;
+        border-radius: 70%;
+    }
+
+    .skills-hdr {
+        margin-top: 100px;
+        width: 100%;
+    }
+
+    .contact-me-hdr {
+        width: 75%;
+    }
+
+    .skills-section {
+        font-weight: 200;
+        font-family: "Poppins", sans-serif;
+        font-size: 18px;
+        display: grid;
+        grid-template-columns: 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        width: 100%;
+    }
+
+    .achievements-section {
+        font-weight: 400;
+        font-family: "Poppins", sans-serif;
+        font-size: 16px;
+        display: grid;
+        grid-template-columns: 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .referals-section {
+        font-weight: 400;
+        font-family: Poppins;
+        font-size: 16px;
+        display: grid;
+        grid-template-columns: 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        margin-bottom: 80px;
+        width: 100%;
+    }
+
+    .contacts-section {
+        margin-top: 30px;
+        font-weight: 200;
+        font-family: "Poppins", sans-serif;
+        font-size: 16px;
+        display: grid;
+        grid-template-columns: 1fr;
+        column-gap: 16px;
+        row-gap: 40px;
+        color: rgb(230, 227, 227);
+        margin-bottom: 50px;
+        width: 100%;
+    }
+
+    .contacts-items {
+        width: 100%;
+    }
+
+    .achievements-grids {
+        margin-top: 30px;
+        background-color: rgb(5, 13, 32);
+        width: 100%;
+    }
+
+    .referals-grids {
+        width: 100%;
+
+    }
+
+    .html-img {
+        width: 80px;
+    }
+
+    .css-img {
+        width: 65px;
+    }
+
+    .python-img {
+        margin-top: 6px;
+        width: 75px;
+        margin-bottom: 5px;
+    }
+
+    .javascript-img {
+        width: 65px;
+        margin-top: 10px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    .github-icon {
+        width: 65px;
+        margin-top: 10px;
+    }
+
+    .vs-code-icon {
+        width: 70px;
+        margin-top: 10px;
+    }
+
+    .react-icon {
+        width: 70px;
+        margin-top: 10px;
+    }
+
+    .ecz {
+        width: 90%;
+        padding-left: 10px;
+    }
+
+    .fb-social {
+        margin-bottom: 3px;
+        width: 25px;
+    }
+
+    .wa-social {
+        margin-left: 10px;
+        width: 32px;
+    }
+
+    .gh-social {
+        margin-left: 9px;
+        width: 30px;
+    }
+
+    .email-icon {
+        margin-bottom: -6px;
+        width: 20px;
+        margin-right: 10px;
+    }
+
+    .phone-icon {
+        margin-bottom: -5px;
+        width: 20px;
+        margin-right: 10px;
+    }
+
+    a {
+        color: white;
+    }
+
+    .job-title {
+        font-size: 18px;
+        width: 75%;
+        text-align: center;
+        margin-left: 11%;
+    }
+}
