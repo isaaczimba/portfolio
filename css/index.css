@@ -10,6 +10,8 @@
       
     }
 
+    html {scroll-behavior: smooth;}
+    
     .mnavbar {
         display: none;
     }
